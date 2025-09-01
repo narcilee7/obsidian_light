@@ -70,12 +70,37 @@ You can customize the theme by modifying the color values in the theme file or b
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit issues and enhancement requests.
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for detailed information on:
+
+- How to report bugs and request features
+- Development setup and testing
+- Color guidelines and best practices
+- Pull request process
+
+## Development
+
+### Prerequisites
+- VS Code 1.74.0 or later
+- Git
+
+### Quick Start
+1. Fork and clone the repository
+2. Open in VS Code and install recommended extensions
+3. Press `F5` to test in Extension Development Host
+4. Make your changes and test thoroughly
 
 ## License
 
-This theme is licensed under the MIT License. See the LICENSE file for details.
+This theme is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for the latest updates and changes.
+
+## Credits
+
+Inspired by the beautiful Obsidian note-taking app and designed for developers who appreciate elegant, readable code themes.
+
+---
+
+**Enjoy coding with Obsidian Light! ✨**

@@ -1,0 +1,21 @@
+{
+    // Recommended settings for developing with Obsidian Light theme
+    "workbench.colorTheme": "Obsidian Light",
+    "editor.fontFamily": "'JetBrains Mono', 'Fira Code', 'Consolas', 'Monaco', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.6,
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "blink",
+    "editor.renderWhitespace": "selection",
+    "editor.renderLineHighlight": "line",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.minimap.enabled": true,
+    "editor.minimap.size": "proportional",
+    "editor.scrollbar.vertical": "visible",
+    "editor.scrollbar.horizontal": "visible",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.tree.indent": 20,
+    "workbench.tree.renderIndentGuides": "always"
+}

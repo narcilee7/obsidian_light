@@ -13,6 +13,7 @@ vsc-extension-quickstart.md
 # Keep essential files
 !README.md
 !LICENSE
+!CONTRIBUTING.md
 !images/icon.png
 
 # Development files
