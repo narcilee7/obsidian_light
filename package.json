@@ -1,0 +1,46 @@
+{
+  "name": "obsidian-light",
+  "displayName": "Obsidian Light",
+  "description": "A beautiful light theme inspired by Obsidian, featuring elegant grays, vibrant syntax highlighting, and excellent readability for long coding sessions.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "obsidian",
+    "light",
+    "theme",
+    "color",
+    "syntax",
+    "highlighting",
+    "readable",
+    "elegant",
+    "minimal"
+  ],
+  "galleryBanner": {
+    "color": "#ffffff",
+    "theme": "light"
+  },
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "publisher": "narcilee7",
+  "author": {
+    "name": "narcilee7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narcilee7/obsidian-light-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsidian Light",
+        "uiTheme": "vs",
+        "path": "./themes/obsidian-light-color-theme.json"
+      }
+    ]
+  }
+}

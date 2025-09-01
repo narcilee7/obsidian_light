@@ -1,0 +1,20 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#ffffff" stroke="#e0e0e0" stroke-width="8"/>
+
+  <!-- Obsidian-inspired diamond shape -->
+  <path d="M64 20 L88 44 L64 68 L40 44 Z" fill="#8957e5" opacity="0.8"/>
+  <path d="M64 32 L76 44 L64 56 L52 44 Z" fill="#ffffff" opacity="0.9"/>
+
+  <!-- Light rays emanating from center -->
+  <path d="M64 8 L64 16" stroke="#007acc" stroke-width="3" opacity="0.6"/>
+  <path d="M120 64 L112 64" stroke="#007acc" stroke-width="3" opacity="0.6"/>
+  <path d="M64 120 L64 112" stroke="#007acc" stroke-width="3" opacity="0.6"/>
+  <path d="M8 64 L16 64" stroke="#007acc" stroke-width="3" opacity="0.6"/>
+
+  <!-- Diagonal rays -->
+  <path d="M32 32 L40 40" stroke="#007acc" stroke-width="2" opacity="0.4"/>
+  <path d="M96 32 L88 40" stroke="#007acc" stroke-width="2" opacity="0.4"/>
+  <path d="M96 96 L88 88" stroke="#007acc" stroke-width="2" opacity="0.4"/>
+  <path d="M32 96 L40 88" stroke="#007acc" stroke-width="2" opacity="0.4"/>
+</svg>
