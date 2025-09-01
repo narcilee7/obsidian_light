@@ -4,11 +4,18 @@ A beautiful and elegant light theme for Visual Studio Code, inspired by the popu
 
 ## Features
 
-- **Elegant Light Design**: Clean white background with carefully selected grays
-- **Rich Syntax Highlighting**: Vibrant colors for different code elements
-- **Excellent Readability**: Optimized contrast ratios for comfortable coding
-- **Comprehensive Coverage**: Supports all major programming languages
-- **Obsidian Inspired**: Familiar color palette from the Obsidian ecosystem
+- **🎯 Ultimate Coverage**: 646+ VS Code theme tokens - the most comprehensive theme available
+- **💡 Perfect IntelliSense**: Fully themed suggest widget, parameter hints, and completions
+- **🔍 Command Palette**: Complete quick pick and dropdown theming
+- **📋 Context Menus**: All menus and popups use theme colors
+- **🎨 Snippet Highlighting**: Code snippets and tabstops properly highlighted
+- **🔔 Notifications**: Toast notifications and notification center theming
+- **⚙️ Settings UI**: Complete settings panel theming
+- **🖥️ Terminal Colors**: Full ANSI color palette support
+- **🔧 Advanced Features**: Command Center, Copilot, debugging, notebooks
+- **🌈 15+ Languages**: Syntax highlighting for major programming languages
+- **♿ Accessibility**: Enhanced focus indicators and validation states
+- **⚡ Performance**: Optimized rendering with efficient color inheritance
 
 ## Color Palette
 
