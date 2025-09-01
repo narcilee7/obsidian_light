@@ -4,14 +4,18 @@ A beautiful and elegant light theme for Visual Studio Code, inspired by the popu
 
 ## Features
 
-- **🎨 Ultra-Comprehensive**: 500+ VS Code theme tokens covering every aspect
-- **✨ Modern VS Code Support**: Command Center, Copilot integration, advanced debugging
-- **🔧 Advanced Editor Features**: Bracket highlighting, inlay hints, sticky scroll
-- **📊 Rich Ecosystem Support**: Notebooks, testing, extensions, remote development
-- **🎯 Professional Quality**: Optimized for accessibility and visual consistency
-- **🌈 Language Agnostic**: 80+ syntax scopes supporting 15+ programming languages
-- **🎪 Enhanced UX**: Focus indicators, validation states, interactive feedback
-- **⚡ Performance Optimized**: Efficient color inheritance and rendering
+- **🎯 Ultimate Coverage**: 646+ VS Code theme tokens - the most comprehensive theme available
+- **💡 Perfect IntelliSense**: Fully themed suggest widget, parameter hints, and completions
+- **🔍 Command Palette**: Complete quick pick and dropdown theming
+- **📋 Context Menus**: All menus and popups use theme colors
+- **🎨 Snippet Highlighting**: Code snippets and tabstops properly highlighted
+- **🔔 Notifications**: Toast notifications and notification center theming
+- **⚙️ Settings UI**: Complete settings panel theming
+- **🖥️ Terminal Colors**: Full ANSI color palette support
+- **🔧 Advanced Features**: Command Center, Copilot, debugging, notebooks
+- **🌈 15+ Languages**: Syntax highlighting for major programming languages
+- **♿ Accessibility**: Enhanced focus indicators and validation states
+- **⚡ Performance**: Optimized rendering with efficient color inheritance
 
 ## Color Palette
 
